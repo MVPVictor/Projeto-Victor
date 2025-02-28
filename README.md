@@ -1,0 +1,1 @@
+Fazer um site de encontro de jogos diversos onde poderia encontrar pessoalmente pra jogar (mais um projeto pessoal que referencia mas tambem serve pra referencias em projetos futuros) dei um tempo por motivos pessoais desejo completar no futuro
