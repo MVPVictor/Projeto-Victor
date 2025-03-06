@@ -5,7 +5,7 @@
     font-family: "Lato", sans-serif;
 
 }
-#menu{
+#nav-bar{
 
     height: 55px;
     width:100%;
@@ -18,7 +18,7 @@ li{
     display: inline;
 
 }
-#menu ul li a{
+#nav-bar ul li a{
 
     color:white;
     text-decoration: none;
@@ -30,7 +30,7 @@ li{
 }
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Shippori+Antique&display=swap');
 
-#menu ul li a:hover{
+#nav-bar ul li a:hover{
 
     background: rgba(0, 0, 128, 0.782);
 
